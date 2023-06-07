@@ -1,0 +1,108 @@
+{
+    "promo": {
+        "title": "Paris Est Business Club",
+        "text": "Venez rencontrer les entrepreneurs de votre secteur\nlors de notre Speed Dating Business !"
+    },
+    "events": [
+        {
+            "id": 0,
+            "title": "Speed Dating Business",
+            "date": "03/02/2023",
+            "city": "Fontainebleau",
+            "people": 26
+        },
+        {
+            "id": 1,
+            "title": "Talks Entrepreneurs",
+            "date": "13/05/2023",
+            "city": "Meaux",
+            "people": 12
+        },
+        {
+            "id": 2,
+            "title": "Rencontres Dirigeants",
+            "date": "12/04/2023",
+            "city": "Lagny-sur-Marne",
+            "people": 18
+        },
+        {
+            "id": 3,
+            "title": "Mois de l'action professionnelle",
+            "date": "12/12/2023",
+            "city": "Champigny",
+            "people": 19
+        },
+        {
+            "id": 4,
+            "title": "Speed Dating Business",
+            "date": "08/11/2023",
+            "city": "Paris 12",
+            "people": 42
+        },
+        {
+            "id": 5,
+            "title": "Speed Dating Business",
+            "date": "27/05/2023",
+            "city": "Gif sur Yvette",
+            "people": 12
+        },
+        {
+            "id": 6,
+            "title": "Speed Dating Business",
+            "date": "03/02/2023",
+            "city": "NYC",
+            "people": 12
+        }
+    ],
+    "medias": [
+        {
+            "id": 0,
+            "title": "Why the Google layoffs are about personal ambition and poor leaders...",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam era...",
+            "views": 2000,
+            "shares": 297
+        },
+        {
+            "id": 1,
+            "title": "Why the Google layoffs are about personal ambition and poor leaders...",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam era...",
+            "views": 2000,
+            "shares": 297
+        },
+        {
+            "id": 2,
+            "title": "Why the Google layoffs are about personal ambition and poor leaders...",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam era...",
+            "views": 2000,
+            "shares": 297
+        },
+        {
+            "id": 3,
+            "title": "Why the Google layoffs are about personal ambition and poor leaders...",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam era...",
+            "views": 2000,
+            "shares": 297
+        },
+        {
+            "id": 4,
+            "title": "Why the Google layoffs are about personal ambition and poor leaders...",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam era...",
+            "views": 2000,
+            "shares": 297
+        },
+        {
+            "id": 5,
+            "title": "Why the Google layoffs are about personal ambition and poor leaders...",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam era...",
+            "views": 2000,
+            "shares": 297
+        },
+        {
+            "id": 6,
+            "title": "Why the Google layoffs are about personal ambition and poor leaders...",
+            "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam era...",
+            "views": 2000,
+            "shares": 297
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+.section {
+    margin: 0 0 55px 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    width: 290px;
+}
+
+.hover {
+    cursor: pointer;
+
+    &:hover ~ p {
+        opacity: 1;
+        transition: 300ms ease-out;
+    }
+}
+.title {
+    font-size: 20px;
+    line-height: 16px;
+    color: white;
+    margin: 0 10px;
+}
+
+.arrow {
+    color: white;
+    transform: rotate(90deg);
+    width: 12px;
+    height: 16px;
+
+    position: relative;
+    top: 2px;
+}
+
+.hoverText {
+    color: #f4801c;
+    margin: 0 10px;
+    display: inline;
+    opacity: 0;
+    transition: 300ms ease-out;
+}
+
+.container {
+    margin-top: 25px;
+    display: flex;
+    gap: 15px;
+    overflow-x: hidden;
+}
