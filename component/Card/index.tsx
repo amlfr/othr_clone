@@ -1,5 +1,3 @@
-"use client";
-
 import styles from "./Card.module.scss";
 import Link from "next/link";
 import Image from "next/image";
@@ -30,7 +28,6 @@ interface props {
 }
 
 const Card = (props: props) => {
-    console.log(props.info);
     return props.category === "events" ? (
         <Link href={`/events/${props.info.id}`}>
             <div className={[styles.container, styles.eventsBg].join(" ")}>
@@ -141,26 +138,5 @@ const Card = (props: props) => {
         </Link>
     );
 };
-
-/* const Card = (props: props) => {
-    console.log(props.info);
-    return props.info.hasOwnProperty("date") ? (
-        <Link href={`/events/${props.info.id}`}>
-            <div className={[styles.container, styles.eventBg].join(" ")}>
-                <div className={styles.filter}></div>
-                <div className={styles.eventsContent}>
-                    <div className={styles.date}>
-                        <p>{props.info.date}</p>
-                    </div>
-                </div>
-            </div>
-        </Link>
-    ) : (
-        <div className={[styles.container, styles.mediaBg].join(" ")}>
-            <div className={styles.mediasContent}></div>
-            <p>Not Event</p>
-        </div>
-    );
-}; */
 
 export default Card;
