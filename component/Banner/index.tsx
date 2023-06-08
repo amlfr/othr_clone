@@ -4,6 +4,7 @@ import companyLogo from "../../public/icons/Groupe 1829@2x.png";
 import data from "../../public/data/data.json";
 
 const Banner = () => {
+    /* const refactor = 1; */
     return (
         <div className={styles.container}>
             <Image

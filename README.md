@@ -12,4 +12,7 @@ Réalisation du front-end d'un site SPA a l'aide de react et Next à partir des 
 
 ## Visite du site:
 
----
+Visiter le site en ligne:
+https://othr-clone.vercel.app/
+
+Ou cloner le repo, installer les modules puis utiliser la commande npm run dev.
